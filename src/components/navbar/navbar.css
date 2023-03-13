@@ -1,0 +1,20 @@
+.klg__navbar {
+    padding: 3rem 6rem;
+  }
+.klg__navbar-links_logo{
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 48px;
+  color: #ffffff;
+}
+
+.klg__navbar-links_container {
+  color: #ffffff;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 33px;
+  margin: 0 1rem;
+  cursor: pointer;
+}
